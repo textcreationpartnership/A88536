@@ -1,0 +1,321 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A looking-glass for traytors being the manner of the tryall of those barbarous wretches at Justice-Hall in the Old-Baily, who contrived and compassed the death of his late Sacred Majesty King Charles the First, of ever blessed memory : with an account of their severall arguments, conviction, condemnation and execution.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88536</idno>
+            <idno type="STC">Wing L3034</idno>
+            <idno type="STC">Thomason 669.f.26[25]</idno>
+            <idno type="STC">ESTC R210824</idno>
+            <idno type="EEBO-CITATION">99869581</idno>
+            <idno type="PROQUEST">99869581</idno>
+            <idno type="VID">163907</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88536)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163907)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f26[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A looking-glass for traytors being the manner of the tryall of those barbarous wretches at Justice-Hall in the Old-Baily, who contrived and compassed the death of his late Sacred Majesty King Charles the First, of ever blessed memory : with an account of their severall arguments, conviction, condemnation and execution.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Vere and William Gilbertson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With an engraving representing the interior of the Old Bailey during the trial.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Assassination --  Early works to 1800.</term>
+               <term>Trials (Treason) --  England --  Early works to 1800.</term>
+               <term>Regicides --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="trial_proceedings">
+            <pb facs="tcp:163907:1" rendition="simple:additions"/>
+            <head>A LOOKING-GLASS FOR TRAYTORS BEING The Manner of the TRYALL of thoſe <hi>Barbarous Wretches</hi> at Juſtice-Hall in the Old-Baily, who contrived and compaſſed the Death of his late Sacred Majeſty <hi>King CHARLES the Firſt,</hi> of ever bleſſed memory: With an account of their ſeverall Araignments, Conviction, Condemnetion and Execution.</head>
+            <p>
+               <figure>
+                  <p>A: <hi>The Lord major:</hi> B: <hi>The Comiſſioners:</hi> C: <hi>The Kings Councell:</hi> D: <hi>The<hi rend="sup">2</hi> Sheriffs:</hi> E: <hi>The Clerks:</hi> F <hi>The Iury:</hi> G: <hi>The Priſoner:</hi> H: <hi>The Witneſſes:</hi> I: <hi>The Bayl-dock:</hi> K: <hi>The Criers of y<hi rend="sup">e</hi> Court:</hi> L: <hi>The Keepers:</hi> M: <hi>The Stayre Caſe:</hi> N: <hi>The houſes looking into y<hi rend="sup">e</hi> Court:</hi> O: <hi>Perſons of Quallity Spactators within y<hi rend="sup">e</hi> Court:</hi> P: <hi>The Common people in y<hi rend="sup">e</hi> outward yard: Q: The yard between the Court and y<hi rend="sup">e</hi> Bar:</hi>
+                  </p>
+                  <byline>I: C delin.</byline>
+               </figure>
+            </p>
+            <div type="list_of_names">
+               <head>
+                  <hi>The names of the Lords and others, unto whom the Commiſſion of</hi> Oyer <hi>and</hi> Terminer <hi>was directed under the Great ſeal of</hi> England. <hi>for the tryall of the pretended Judges of His late Sacred Majeſty.</hi>
+               </head>
+               <list>
+                  <item>
+                     <hi>THomas Aleyn</hi> Knight and Baronet, Lord</item>
+                  <item>Mayor of the City of <hi>Lendon:</hi>
+                  </item>
+                  <item>The Lord Chancellor of <hi>England.</hi>
+                  </item>
+                  <item>The Earl of <hi>Southampton,</hi> Lord Treaſurer of <hi>England.</hi>
+                  </item>
+                  <item>The Duke of <hi>Somerſet.</hi>
+                  </item>
+                  <item>The Duke of <hi>Albemarle.</hi>
+                  </item>
+                  <item>The Marqueſſe ef <hi>Ormond,</hi> Steward of His Majeſties houſhold.</item>
+                  <item>The Earle of <hi>Lindſey</hi> High Chamberlain of England.</item>
+                  <item>The Earl of <hi>Mancheſter,</hi> Chamberlain of his Majeſties Houſhold.</item>
+                  <item>The Earle of <hi>Dorſet.</hi>
+                  </item>
+                  <item>The Earl of <hi>Berkeſhire.</hi>
+                  </item>
+                  <item>The Earl of <hi>Sandwich.</hi>
+                  </item>
+                  <item>Viſcount <hi>Say</hi> and <hi>Seale.</hi>
+                  </item>
+                  <item>The Lord <hi>Roberts.</hi>
+                  </item>
+                  <item>The Lord <hi>Finch.</hi>
+                  </item>
+                  <item>
+                     <hi>Denzill Hollis</hi> Eſquire.</item>
+                  <item>Sir <hi>Frederick Cornwallis,</hi> Knight and Baro<g ref="char:EOLhyphen"/>net, Treaſurer of his Majeſties houſhold.</item>
+                  <item>Sir <hi>Charles Barkley,</hi> Knight, Comptroller of His Majeſties Houſhold.</item>
+                  <item>Mr. Secretary <hi>Nicholas.</hi>
+                  </item>
+                  <item>Mr. Secretary <hi>Morris,</hi>
+                  </item>
+                  <item>Sir <hi>Anthony Aſhley Cooper.</hi>
+                  </item>
+                  <item>
+                     <hi>Arthur Anneſley,</hi> Eſquire.</item>
+                  <item>The Lord <hi>Cheif Baron.</hi>
+                  </item>
+                  <item>Mr. Juſtice <hi>Foſter.</hi>
+                  </item>
+                  <item>Mr. Juſtice <hi>Mallet.</hi>
+                  </item>
+                  <item>Mr. Juſtice <hi>Hyde.</hi>
+                  </item>
+                  <item>Mr. Baron <hi>Atkins.</hi>
+                  </item>
+                  <item>Mr. Juſtice <hi>Twiſden.</hi>
+                  </item>
+                  <item>Mr. Juſtice <hi>Tyrrel.</hi>
+                  </item>
+                  <item>Mr. Baron <hi>Turner.</hi>
+                  </item>
+                  <item>Sir <hi>Harbottle Grimſton,</hi> Knight &amp; Ba<g ref="char:EOLhyphen"/>ronet.</item>
+                  <item>Sir <hi>William Wild,</hi> Knight and Baroner Recorder of <hi>London.</hi>
+                  </item>
+                  <item>Mr. Serjeant <hi>Brown.</hi>
+                  </item>
+                  <item>Mr. Serjeant <hi>Hale.</hi>
+                  </item>
+                  <item>
+                     <hi>John Howel</hi> Eſquire.</item>
+                  <item>Sir <hi>Geoffery Palmer,</hi> His Majeſtie's Atturney Generall.</item>
+                  <item>Sir <hi>Heneage Finch,</hi> his Majeſties Solli<g ref="char:EOLhyphen"/>citor Generall.</item>
+                  <item>Sir <hi>Edward Turner,</hi> Atturney to His Highneſs the Duke of <hi>York.</hi>
+                  </item>
+                  <item>
+                     <hi>Wadham Windham,</hi> Eſquire.</item>
+                  <item>
+                     <hi>Edward Shelton,</hi> Eſquire Clerk of the Crown.</item>
+               </list>
+               <list>
+                  <head>The Names of the Grand-Jury ſworn were</head>
+                  <item>Sir <hi>William Darcy,</hi> Baronet, <hi>Foreman.</hi>
+                  </item>
+                  <item>Sir <hi>Robert Bolles,</hi> Baronet:</item>
+                  <item>Sir <hi>Edward Ford,</hi> Knight.</item>
+                  <item>Sir <hi>Thomas Preſtwick.</hi>
+                  </item>
+                  <item>Sir <hi>William Coney,</hi> Knight.</item>
+                  <item>Sir <hi>Charls Sidley,</hi> Baronet.</item>
+                  <item>Sir <hi>Lewis Kirk,</hi> Knight.</item>
+                  <item>Sir <hi>Henry Littleton,</hi> Baronet.</item>
+                  <item>Sir <hi>Ralph Bovey,</hi> Baronet.</item>
+                  <item>
+                     <hi>Edward Chard</hi> Eſquire.</item>
+                  <item>
+                     <hi>Robert Giggen</hi> Eſquire.</item>
+                  <item>
+                     <hi>John Fotherley</hi> Eſquire.</item>
+                  <item>
+                     <hi>Charls Gibbons</hi> Eſquire.</item>
+                  <item>
+                     <hi>Thomas Geree</hi> Eſquire.</item>
+                  <item>
+                     <hi>Richard Cox</hi> Eſquire.</item>
+                  <item>
+                     <hi>Robert Bladwell</hi> Eſquire.</item>
+                  <item>
+                     <hi>Henry Muſtian</hi> Eſquire.</item>
+                  <item>
+                     <hi>John Markham</hi> Eſquire.</item>
+                  <item>
+                     <hi>Edward Buckley,</hi> Gent.</item>
+                  <item>
+                     <hi>Francis Bourchier,</hi> Gent.</item>
+                  <item>
+                     <hi>Edward Lole.</hi>
+                  </item>
+                  <item>
+                     <hi>Hart,</hi> Cryer.</item>
+               </list>
+            </div>
+            <div type="proceedings">
+               <p>HIs Majeſty (in purſuance of an Act of Parliament which had left the perſons following to be tried according to Law, for being the principall Actors in the ſad Tragedy of his Fathers death) iſſued out a ſpeciall Commiſſion of <hi>Oyer</hi> and <hi>terminer</hi> to the Judges and others Commiſſioners for that pur<g ref="char:EOLhyphen"/>poſe: and accordingly <hi>Wedneſday</hi> the 10. of <hi>October</hi> they met at the Seſſions-houſe in the <hi>Old-baily,</hi> and the ſame morning the fol<g ref="char:EOLhyphen"/>lowing perſons were ordered to be brought from the <hi>Tower</hi> to <hi>Newgate,</hi> and a way was made from the Preſs-yard backwards to the Seſſions houſe, privately to convey them to and again, to keep them from the preſſing of the people.</p>
+               <list>
+                  <item>Thomas Harriſon.</item>
+                  <item>John Cooke.</item>
+                  <item>Robert Titchburne.</item>
+                  <item>Sir Hardreſs Waller.</item>
+                  <item>Symon Meyne.</item>
+                  <item>Owen Roe.</item>
+                  <item>Mr. John Carew.</item>
+                  <item>Peter Temple.</item>
+                  <item>Robert Liburne.</item>
+                  <item>Col. Adrian Scroop.</item>
+                  <item>James Temple.</item>
+                  <item>Gilbert Millington.</item>
+                  <item>Mr. Thomas Scott.</item>
+                  <item>Hugh Peters:</item>
+                  <item>Iſaac Pennington,</item>
+                  <item>Col. John Jones.</item>
+                  <item>Daniell Axtell.</item>
+                  <item>John Downes.</item>
+                  <item>M. Gregory Clement.</item>
+                  <item>Francis Hacker.</item>
+                  <item>Edmund Harvey.</item>
+                  <item>Auguſtine Garland.</item>
+                  <item>Henry Marten,</item>
+                  <item>Vincent Potter.</item>
+                  <item>Will. Heveningham.</item>
+                  <item>Henry Smith.</item>
+                  <item>Thomas Waite.</item>
+                  <item>George Fleetwood.</item>
+               </list>
+               <p>All which being brought to the Bar, were indicted and arraig<g ref="char:EOLhyphen"/>ned to the following effect:</p>
+               <p>
+                  <hi>That they not having the fear of God before their eyes, but being led by the inſtigation of the Divel, had maliciouſly, trai<g ref="char:EOLunhyphen"/>terouſly, and adviſedly imagined, conſulted, contrived, and compaſſed the death of His late Majeſty</hi> Charles the firſt <hi>of ever bleſſed memory; and that they had aided, procured, a bet<g ref="char:EOLunhyphen"/>ted, aſſiſted, and comforted a certain perſon with a vizard upon his face, and a frock upon his body for that purpoſe.</hi>
+               </p>
+               <p>To which all pleaded <hi>Not guilty,</hi> except Sir <hi>Hardres Waller</hi> and Col. <hi>George Fleetwood,</hi> who being conſcious of their own guilt, and ſatisfied with the hainouſneſs of their fact pleaded <hi>guilty,</hi> and put in their Petitions to the Court craving mercy. And although Mr. <hi>Hugh Peters</hi> ſaid he would not plead <hi>guilty</hi> for ten thouſand worlds, yet he was found to be a great forwarder of that black deſigne.</p>
+               <p>This being the firſt daies work, which was only to arraigne, the next day being Thurſday Major Gen. <hi>Harriſon</hi> ſingly was brou<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ht to the Bar, but before he could get a Jury that he liked, he took upon him the liberty of an Engliſh man &amp; excepted againſt thirty five perſons, which being done twelve were choſen upon whom he put himſelf for his Tryal, and being charged by the Kings Coun<g ref="char:EOLhyphen"/>cel for being one that Signed the Commiſſion for the eſtabliſhing a High Court of Juſtice, One that Sate among them, One that Signed that Horrid Warrant for the Kings Execution; and was One likewiſe who had Contrived the Time the Place and the Manner of the Kings Execution. Major General <hi>Harriſon</hi> in his Pleadings carried himſelf ſo confidently to the Court as if he thought himſelf Careleſſe and Unconcerned in the buſineſſe: and ſeemed to juſtifie not onely the Power under which he Acted but alſo the Act it ſelf, ſaying that Kings had formerly been pri<g ref="char:EOLhyphen"/>vately Aſſaſſinated and Murthered, but what they had done was in the Face of the Sun and in the Fear of the Lord; whereat the Court was much troubled to ſee that he ſhould make God the Author of that Horrid Murther; and being told that the thing he called the Commons of <hi>England</hi> were ſo far from being a Par<g ref="char:EOLhyphen"/>liament, that they had not the leaſt colour of Authority, and that if they had been the whole houſe of Commons and joyned to the whole houſe of Lords, they could not by any Act of theirs take away the Life of the leaſt Cripple at the Gate, much leſſe of the King, <hi>&amp;c.</hi>
+               </p>
+               <p>Major General <hi>Harriſon</hi> not being able to ſpeak to the matter of Fact, it was left to the Jury who without going forth of the Court immedia<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ely found him <hi>Guilty,</hi> and Sentence accordingly paſſed on him, <hi>To go from that place to the place from whence he came, and from thence to be drawn upon a Hurdle to the place of Execution, there to be Hanged by the Neck till he were half Dead, that he ſhould be cut down a Live, and his Members cut off before his Face and burnt in the Fire, his Bowels to be taken out and burnt likewiſe, his Head to be cut off and his Body to be divided into four Quarters, &amp; diſpoſed of as his Majeſty ſhall think fit.</hi> Which ſentence was put in Execution on <hi>Saturday</hi> following at <hi>Charing-croſs.</hi>
+               </p>
+               <p>The next day being <hi>Friday</hi> the Court called to the Bar, Col. <hi>Adrian Scroope,</hi> Mr. <hi>John Carew,</hi> Mr. <hi>Thomas Scot,</hi> Mr. <hi>Gregory Clement,</hi> and Col. <hi>John Jones.</hi>
+               </p>
+               <p>Col. <hi>Scroope</hi> leads the Van of theſe Five to the Bar, and after his Indictment was read, and being charged as one that ſate in that bloody Court, and ſet his hand to that Wicked Warrant for the Execution, the Kings Councel produced Witneſſes which confirmed the ſame, to which Col. <hi>Scroope</hi> pleaded that he could not juſtifie himſelf from the Fact, but did intreat Councel as to matter of Law, that he was no Parliament Man, but onely acted in the High Court of Juſtice by a Commiſſion from the Parlia<g ref="char:EOLhyphen"/>ment which was then accounted the ſupream Authority of the Nation, and was owned by the Generality of the people, and that ſitting in that Court by command of that Authority he ho<g ref="char:EOLhyphen"/>ped it would juſtifie him, and therefore deſired Councel to pro<g ref="char:EOLhyphen"/>vide himſelf. But being told as Major General <hi>Harriſon</hi> had been that there was no matter of Law in the thing, and that the Illegal Uſurpt power of thoſe few members which Authorized that black Court had not the leaſt colour of an Authority, which an<g ref="char:EOLhyphen"/>ſwer ſilenced him, and ſo being left to the Jury was likewiſe found Guilty.</p>
+               <p>Mr. <hi>John Car<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w</hi> was next called for to the Bar, and being Taxt in manner and form with Col. <hi>Scroope</hi> for ſigning to the Act for Eſtabliſhing a High Court of Injuſtice and ſigning the aforeſaid bloody Warrant for the Kings Execution; he like Major Gen. <hi>Harriſon</hi> would have juſtifyed the Act, pleading Error to the In<g ref="char:EOLhyphen"/>dictment becauſe that ſaid he did it not <hi>having the Fear of God before his Eyes</hi> whereas what he had done was in the Fear of the moſt Holy and moſt Righteous Lord; he likewiſe was found Guil<g ref="char:EOLunhyphen"/>ty by the Jury.</p>
+               <p>Mr. <hi>Thomas Scot</hi> is called who ſo much Gloried in his being a Contriver of the Kings Death, that he deſired it might be writ up<g ref="char:EOLhyphen"/>on his Tomb that all <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he World might know it, but now being brought to the Bar he pleads not Guilty; he ſaid that he had of<g ref="char:EOLhyphen"/>ten prayed with tears that if there were any wickedneſſe in the Death of the King God would be pleaſed to convince him of it, but that he never received any conviction; he would have plead<g ref="char:EOLhyphen"/>ed the Authority of the Parliament, but being told there could not be a Parliament without King, Lords and Commons his Plea had the like ſucceſs of the former.</p>
+               <p>Col. <hi>John Jones</hi> who was Mr. <hi>Scotts</hi> bed-fellow, who ſeeing that all the Arguments which they had contrived between them to an<g ref="char:EOLhyphen"/>ſwer the charge proved ineffectuall, and that the Plea on the other ſide of the Kings Councell was un-anſwerable, confeſt his being preſent at the Court, and ſigning of the Warrant for the Kings Ex<g ref="char:EOLhyphen"/>ecution; upon which he was by the Jury returned <hi>guilty</hi>
+               </p>
+               <p>Mr. <hi>Gregory Clement</hi> delivered a Petition to the Court and de<g ref="char:EOLhyphen"/>ſired to <hi>plead guilty</hi> to the Indictment, acknowledging the hai<g ref="char:EOLhyphen"/>nouſneſſe of the crime, and that his former plea of <hi>Not guilty</hi> might be waved. Upon which the five received the aforeſaid ſen<g ref="char:EOLhyphen"/>tence together.</p>
+               <p>On Saturday Mr. <hi>John Cocke</hi> and Mr. <hi>Hugh Peters</hi> were brought to the Bar. Mr. <hi>Cooke</hi> was taxed for ſigning that wicked Libel cal<g ref="char:EOLhyphen"/>led <hi>A charge of High treaſon exhibited on behalfe of the people of England againſt</hi> Charles Stuart <hi>King.</hi> He pleaded ſo much like a Lawyer, that it was anſwered, That he he had tranſgreſt the Law very much that underſ<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ood it ſo much; that whereas he preten<g ref="char:EOLhyphen"/>ded to be a ſervant to the people of <hi>England,</hi> it did concern the Jury to take notice thereof, for they were part of the people, and ifthey did own what he ſaid they juſtified the Priſoner; but it was hoped that they ſtood there to tell the World that the people of <hi>England</hi> had nothing to doe in it; that he was the man that ſaid <hi>the King muſt die, and Monarchy with him,</hi> and that he frequently interrupted the King, not ſuffering him to anſwer for himſelfe, and was aegry with the Court that (as he pretended) they ſuffered the King to trifle away time. He was likewiſe found guilty.</p>
+               <p>Mr. <hi>Hugh Peters</hi> ſtood ſtrangely amazed and could ſay nothing for himſelfe, againſt that Jury of witneſſes that appeared againſt him: as that he ſaid, <hi>England</hi> could not be ſetled till 150. were ta<g ref="char:EOLhyphen"/>ken away, which he ſaid were <hi>L L L,</hi> viz. the <hi>Lords,</hi> the <hi>Levites,</hi> and the <hi>Lawyers;</hi> that he was often conſpiring privately with <hi>Oliver Cromwell</hi> the Kings death, that he could even reverence the High Court of Juſtice, it lookt ſo like the judgement of the world which ſhould be at the laſt day by the Saints: With many other blaſphe<g ref="char:EOLhyphen"/>mies too large to enumerate; he was as aforeſaid found guilty.</p>
+               <p>On <hi>Monday</hi> Col. <hi>Axtell,</hi> Col. <hi>Hacker,</hi> and Capt. <hi>Hewlet</hi> were brought to the Court; the Firſt for being Guard to the High Court of <hi>Injuſtice,</hi> the Second for guarding the King to the Scaf<g ref="char:EOLhyphen"/>fold, and the Third for cutting off his Head: Col. <hi>Aztell</hi> com<g ref="char:EOLhyphen"/>manded the Souldiers to cry, <hi>Juſtice, juſtice, Execution, execution:</hi> Col. <hi>Hacker</hi> ſigned the bloudy Warrant for that wicked Murther, and Capt. <hi>Hewlet</hi> was the probably ſuppoſed Man that gave the Fatal BLOW, as by the courſe of the evidence may appear, <hi>viz.</hi> That his voice was heard upon the Scaffold, and his Breeches were ſeen under his Frock, that he confeſt he was to have 100 <hi>l.</hi> and preferment in <hi>Ireland</hi> to doe it; that being asked whether he Cut off the King's Head or no, he ſaid what he had done, he would not be aſhamed of; and if it were to doe again he would doe it: more to the ſame purpoſe was witneſſed by ſeveral wit<g ref="char:EOLhyphen"/>neſſes, and by one, who being ſworn, ſaid that the Common-Hangman profeſt he did not doe it; all three-were found guilty.</p>
+               <p>The other Eighteen, <hi>(viz.</hi> Sir <hi>Hardreſſe Waller, William Heve<g ref="char:EOLhyphen"/>ningham, Iſaac <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>enington, Henry Marten, Gilbert Millington, Rob. Tichburn, Owen Roe, Robert Lilburn, Henry Smith, Edmund Harvey, John Downes, Vincent Potter, Auguſtine Garland, George Fleetwood, Simon Meyne James Temple, Peter Temple, Tho. Waite,)</hi> were brought to the Bar on <hi>Tueſday</hi> morning; and having ſeen the vanity of wanding out and pleading not guilty, they all fairly laid down the Bucklers and ſubmitted to the mercy of the King, and received the Sentence of Death as the others had done be<g ref="char:EOLhyphen"/>fore them, only Mr. <hi>Heveningham</hi> was that day ſet b<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; but on <hi>Friday</hi> following the 19. of <hi>October,</hi> the Court met on purpoſe, and paſſed the like Sentence upon him.</p>
+               <p>Mr. <hi>Carew</hi> was Executed according to his ſentence on <hi>Munday</hi> the <hi>15th.</hi> of <hi>October,</hi> On <hi>Tueſday</hi> Mr. <hi>Cooke</hi> and Mr. <hi>Peters</hi> recei<g ref="char:EOLhyphen"/>ved the reward of their Iniquity, On <hi>Wedneſday</hi> Mr. <hi>Scot,</hi> Mr. <hi>Gregory Clement,</hi> Col. <hi>John Jones,</hi> and Col. <hi>Adrian Scroope</hi> received no other Favour then the former, all at Charing Croſſe, and on Friday Col. <hi>Hacker</hi> was onely Hang'd at <hi>Tyburn</hi> and car<g ref="char:EOLhyphen"/>ried home in a Herſe, but Col. <hi>Axtell</hi> was there Quartered and his Quarters carried back on the Sledge.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> Thomas Vere <hi>and</hi> William Gilbertſon. <hi>1660.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
